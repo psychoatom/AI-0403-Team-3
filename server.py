@@ -11,6 +11,7 @@ app = FastAPI()
 
 input_shape = (224, 224)
 
+# Model is placeholder
 def load_model():
     model = tf.keras.applications.EfficientNetB0(input_shape)
     return model
@@ -21,7 +22,7 @@ def read_image(file):
     image = Image.open(BytesIO(file))
     return image
 
-
+# Image preprocessing method is placeholder too
 def preprocess(image: Image.Image):
     image = image.resize(input_shape)
     image = np.asfarray(image)
@@ -29,24 +30,21 @@ def preprocess(image: Image.Image):
     image = np.expand_dims(image, 0)
     return image
 
-
+# Prediction also placeholder
 def predict(image: np.ndarray):
     predictions = model.predict(image)
     predictions = decode_predictions(predictions)[0][0][1]
     return predictions
 
-
+# Actual API for the inference 
 @app.get("/", include_in_schema=False)
 async def index():
     return RedirectResponse(url="/docs")
 
 @app.post("/predict/image")
 async def predict_image(file: UploadFile = File(...)):
-    #read file uploaded
     image = read_image(await file.read())
-    #preprocessing of image
     image = preprocess(image)
-    #pass to model to classify
     predictions = predict(image)
     print(predictions)
     return predictions
