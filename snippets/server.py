@@ -26,7 +26,7 @@ def read_image(file):
 def preprocess(image: Image.Image):
     image = image.resize(input_shape)
     image = np.asfarray(image)
-    image = image / 255
+    #image = image / 255
     image = np.expand_dims(image, 0)
     return image
 
