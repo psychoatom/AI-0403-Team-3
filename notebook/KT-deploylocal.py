@@ -17,6 +17,10 @@ save_folder = "../data/saved"
 model_name = "effnetalpha"
 model = load_model(f"{save_folder}/{model_name}")
 
+def read_image(file):
+    image = Image.open(BytesIO(file))
+    return image
+    
 # Image preprocessing method is placeholder too
 def preprocess(image: Image.Image):
     image = image.resize(input_shape)
