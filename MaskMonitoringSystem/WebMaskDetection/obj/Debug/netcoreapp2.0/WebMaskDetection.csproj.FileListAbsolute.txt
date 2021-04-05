@@ -1,0 +1,26 @@
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowProject\webCam2\WebMaskDetection\bin\Debug\netcoreapp2.0\WebMaskDetection.deps.json
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowProject\webCam2\WebMaskDetection\bin\Debug\netcoreapp2.0\WebMaskDetection.runtimeconfig.json
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowProject\webCam2\WebMaskDetection\bin\Debug\netcoreapp2.0\WebMaskDetection.runtimeconfig.dev.json
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowProject\webCam2\WebMaskDetection\bin\Debug\netcoreapp2.0\WebMaskDetection.dll
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowProject\webCam2\WebMaskDetection\obj\Debug\netcoreapp2.0\WebMaskDetection.csprojResolveAssemblyReference.cache
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowProject\webCam2\WebMaskDetection\obj\Debug\netcoreapp2.0\WebMaskDetection.csproj.CoreCompileInputs.cache
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowProject\webCam2\WebMaskDetection\obj\Debug\netcoreapp2.0\WebMaskDetection.AssemblyInfoInputs.cache
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowProject\webCam2\WebMaskDetection\obj\Debug\netcoreapp2.0\WebMaskDetection.AssemblyInfo.cs
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowProject\webCam2\WebMaskDetection\bin\Debug\netcoreapp2.0\WebMaskDetection.pdb
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowProject\webCam2\WebMaskDetection\obj\Debug\netcoreapp2.0\WebMaskDetection.dll
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowProject\webCam2\WebMaskDetection\obj\Debug\netcoreapp2.0\WebMaskDetection.pdb
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\webCam2\WebMaskDetection\bin\Debug\netcoreapp2.0\WebMaskDetection.deps.json
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\webCam2\WebMaskDetection\bin\Debug\netcoreapp2.0\WebMaskDetection.runtimeconfig.json
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\webCam2\WebMaskDetection\bin\Debug\netcoreapp2.0\WebMaskDetection.runtimeconfig.dev.json
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\webCam2\WebMaskDetection\bin\Debug\netcoreapp2.0\WebMaskDetection.dll
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\webCam2\WebMaskDetection\bin\Debug\netcoreapp2.0\WebMaskDetection.pdb
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\webCam2\WebMaskDetection\obj\Debug\netcoreapp2.0\WebMaskDetection.csproj.CoreCompileInputs.cache
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\webCam2\WebMaskDetection\obj\Debug\netcoreapp2.0\WebMaskDetection.AssemblyInfoInputs.cache
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\webCam2\WebMaskDetection\obj\Debug\netcoreapp2.0\WebMaskDetection.AssemblyInfo.cs
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\webCam2\WebMaskDetection\obj\Debug\netcoreapp2.0\WebMaskDetection.dll
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\webCam2\WebMaskDetection\obj\Debug\netcoreapp2.0\WebMaskDetection.pdb
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\webCam2\WebMaskDetection\obj\Debug\netcoreapp2.0\WebMaskDetection.csprojAssemblyReference.cache
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\webCam2\WebMaskDetection\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\webCam2\WebMaskDetection\bin\Debug\netcoreapp2.0\appsettings.json
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\webCam2\WebMaskDetection\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\webCam2\WebMaskDetection\obj\Debug\netcoreapp2.0\WebMaskDetection.genruntimeconfig.cache

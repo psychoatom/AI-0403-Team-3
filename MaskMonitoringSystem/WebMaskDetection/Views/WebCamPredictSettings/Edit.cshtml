@@ -1,0 +1,32 @@
+﻿@model WebMaskDetection.Models.WebCamPredictSetting
+
+
+
+
+<h4>Webcam and Prediction Setting</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="wp_index" />
+            <div class="form-group">
+                <label asp-for="WebCamInterval" class="control-label">Image Capturing Time Interval (second)</label>
+                <input asp-for="WebCamInterval" class="form-control" />
+                <span asp-validation-for="WebCamInterval" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PredictionThreshold" class="control-label">Prediction Threshold</label>
+                <input asp-for="PredictionThreshold" class="form-control" />
+                <span asp-validation-for="PredictionThreshold" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back</a>
+</div>

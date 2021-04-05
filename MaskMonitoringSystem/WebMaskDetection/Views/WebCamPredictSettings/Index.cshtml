@@ -1,0 +1,37 @@
+﻿@model IEnumerable<WebMaskDetection.Models.WebCamPredictSetting>
+
+<!--<p>
+    <a asp-action="Create">Create New</a>
+</p>-->
+<p></p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.WebCamInterval)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PredictionThreshold)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.WebCamInterval)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PredictionThreshold)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.wp_index">Edit</a> |
+                    <!--  <a asp-action="Details" asp-route-id="@item.wp_index">Details</a> |
+      <a asp-action="Delete" asp-route-id="@item.wp_index">Delete</a>-->
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
