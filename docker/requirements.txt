@@ -1,0 +1,9 @@
+fastapi
+pydantic
+requests
+uvicorn
+Pillow
+numpy
+tensorflow
+starlette==0.13.8
+python-multipart
