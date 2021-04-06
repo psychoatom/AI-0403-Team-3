@@ -3,8 +3,7 @@ Team 3 repo for Project<br>
 Team members:
 <ul>
   <li>Gary</li>
-  <li>Kelvin</li>
-  <li>Bruce</li>
   <li>Sam</li>
-  <li>Tang</li>
+  <li>Kok Yong</li>
+  <li>Kelvin</li>
 </ul>
