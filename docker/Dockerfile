@@ -1,26 +1,21 @@
+# base images
+
 FROM python:3.8-alpine
 FROM tensorflow/tensorflow:latest
-
-#RUN apk --update add \
-#    build-base \
-#    jpeg-dev \
-#    zlib-dev
 
 # install dependencies
 COPY ./requirements.txt .
 RUN pip install -r requirements.txt
 
+# setting env variables
 ENV MODEL_NAME=effnet1
 
-#copy project over 
+# copy project over 
 COPY . .
 
-# add and run as non-root user
-#RUN adduser -D grtang
-#USER grtang
-
+# exposing port, heroku using random assign
 EXPOSE $PORT
 
-#CMD ["/usr/bin/tf_serving_entrypoint.sh"]
+# setting entry point 
 ENTRYPOINT ["python"]
 CMD ["deploylocal.py"]
