@@ -8,7 +8,7 @@ COPY ./requirements.txt .
 RUN pip install -r requirements.txt
 
 # setting env variables
-ENV MODEL_NAME=effnet1
+# ENV MODEL_NAME=effnet1
 
 # copy project over 
 COPY . .
@@ -18,4 +18,4 @@ EXPOSE $PORT
 
 # setting entry point 
 ENTRYPOINT ["python"]
-CMD ["deploylocal.py"]
+CMD ["deploy.py"]
