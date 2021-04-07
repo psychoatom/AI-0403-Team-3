@@ -1,0 +1,20 @@
+Filename,Predictions
+testdata/46.jpg,WithoutMask
+testdata/6.jpg,WithoutMask
+testdata/7.jpg,WithoutMask
+testdata/Andy Tan Hong Key.png,WithoutMask
+testdata/CH0_20170122_105157.png,WithoutMask
+testdata/CH0_20170122_105218.png,WithoutMask
+testdata/CH0_20170122_105345.png,WithoutMask
+testdata/CH0_20170520_000836.png,WithoutMask
+testdata/Gary Tay Yong Kwang.png,WithoutMask
+testdata/Kelvin Teo Teck Kin.png,WithoutMask
+testdata/Sam Sum Kwok Wah.png,WithoutMask
+testdata/Sharon Wan Chun Wah.png,WithoutMask
+testdata/Susan Sor Siok Tin.png,WithoutMask
+testdata/jbiden.png,WithoutMask
+testdata/mask209 (2).jpg,WithoutMask
+testdata/mask209.jpg,WithMask
+testdata/maskpra2.jpg,WithMask
+testdata/maskprajna.jpg,WithMask
+testdata/obama.png,WithoutMask
