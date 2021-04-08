@@ -20,7 +20,7 @@ input_shape = (224, 224)
 # loading saved model
 
 save_folder = "../models"
-model_name = "effnet1"
+model_name = "effnet3"
 model = load_model(f"{save_folder}/{model_name}")
 
 def read_image(file):
