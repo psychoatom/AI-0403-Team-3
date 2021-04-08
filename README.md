@@ -1,8 +1,7 @@
 <h2>IAM.Vitalize AI-0403-AI Practitioner Team-3</h2>
 
-This is the repository for the project development artefacts.<br>  
-We are building a face mask detection computer vision model as<br>
-part of our research project.<br>
+This is the repository for the project development artefacts.  
+We are building a face mask detection computer vision model as part of our research project.<br>
 
 **Team members:**<br>
 <ul>
