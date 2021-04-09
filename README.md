@@ -18,3 +18,7 @@ We are building a face mask detection computer vision model as part of our resea
 <li>/notebook/ - relevant Python notebooks for development and testing of the model</li>
 <li>/snippets/ - test code sandbox </li>
 </ul>
+
+https://effnetmaskchk.herokuapp.com
+https://effnet-mask-test.herokuapp.com
+ 
