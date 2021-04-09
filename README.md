@@ -19,6 +19,8 @@ We are building a face mask detection computer vision model as part of our resea
 <li>/snippets/ - test code sandbox </li>
 </ul>
 
+**Sample Deployments:**
+
 https://effnetmaskchk.herokuapp.com
 <br>
 https://effnet-mask-test.herokuapp.com
