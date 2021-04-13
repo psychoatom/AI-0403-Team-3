@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IOLJZEve8tK27mTWBnvGH0rDv88cjfFMRicHpDfLOuFGt4HS+LodW1LZRmGSCBAA2whHkTNDskcyzst7SwBsdw==",
+  "dgSpecHash": "oXqDdrA1o/R8aVKe9oe9HDsB9Wv6AkCrdTwtgX3BMcpoes7odZWMX9byl3T6hK55s1m2+7Mee1mY5LAQy8Evcw==",
   "success": true,
-  "projectFilePath": "D:\\IBM\\ArtificialIntelligencePractitioner\\Project\\WindowProject\\MaskMonitoringSystem\\WebMaskDetection\\WebMaskDetection.csproj",
+  "projectFilePath": "C:\\Users\\sam.000\\Source\\Repos\\AI-0403-Team-3\\MaskMonitoringSystem\\WebMaskDetection\\WebMaskDetection.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Users\\sam.000\\.nuget\\packages\\mailkit\\2.11.1\\mailkit.2.11.1.nupkg.sha512",

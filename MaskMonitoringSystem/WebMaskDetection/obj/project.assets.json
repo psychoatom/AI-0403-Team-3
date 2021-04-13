@@ -13576,11 +13576,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IBM\\ArtificialIntelligencePractitioner\\Project\\WindowProject\\MaskMonitoringSystem\\WebMaskDetection\\WebMaskDetection.csproj",
+      "projectUniqueName": "C:\\Users\\sam.000\\Source\\Repos\\AI-0403-Team-3\\MaskMonitoringSystem\\WebMaskDetection\\WebMaskDetection.csproj",
       "projectName": "WebMaskDetection",
-      "projectPath": "D:\\IBM\\ArtificialIntelligencePractitioner\\Project\\WindowProject\\MaskMonitoringSystem\\WebMaskDetection\\WebMaskDetection.csproj",
+      "projectPath": "C:\\Users\\sam.000\\Source\\Repos\\AI-0403-Team-3\\MaskMonitoringSystem\\WebMaskDetection\\WebMaskDetection.csproj",
       "packagesPath": "C:\\Users\\sam.000\\.nuget\\packages\\",
-      "outputPath": "D:\\IBM\\ArtificialIntelligencePractitioner\\Project\\WindowProject\\MaskMonitoringSystem\\WebMaskDetection\\obj\\",
+      "outputPath": "C:\\Users\\sam.000\\Source\\Repos\\AI-0403-Team-3\\MaskMonitoringSystem\\WebMaskDetection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

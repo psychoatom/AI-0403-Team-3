@@ -1,0 +1,26 @@
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowConsole\maskDetection\bin\Debug\maskDetection.exe.config
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowConsole\maskDetection\bin\Debug\maskDetection.exe
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowConsole\maskDetection\bin\Debug\maskDetection.pdb
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowConsole\maskDetection\obj\Debug\maskDetection.csprojResolveAssemblyReference.cache
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowConsole\maskDetection\obj\Debug\maskDetection.csproj.CoreCompileInputs.cache
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowConsole\maskDetection\obj\Debug\maskDetection.exe
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowConsole\maskDetection\obj\Debug\maskDetection.pdb
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowProject\maskDetection\bin\Debug\maskDetection.exe.config
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowProject\maskDetection\bin\Debug\maskDetection.exe
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowProject\maskDetection\bin\Debug\maskDetection.pdb
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowProject\maskDetection\bin\Debug\Newtonsoft.Json.dll
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowProject\maskDetection\bin\Debug\Newtonsoft.Json.xml
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowProject\maskDetection\obj\Debug\maskDetection.csprojResolveAssemblyReference.cache
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowProject\maskDetection\obj\Debug\maskDetection.csproj.CoreCompileInputs.cache
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowProject\maskDetection\obj\Debug\maskDetection.exe
+D:\IBM\Artificial Intelligence Practitioner\Project\WindowProject\maskDetection\obj\Debug\maskDetection.pdb
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\maskDetection\bin\Debug\maskDetection.exe.config
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\maskDetection\bin\Debug\maskDetection.exe
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\maskDetection\bin\Debug\maskDetection.pdb
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\maskDetection\bin\Debug\Newtonsoft.Json.dll
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\maskDetection\bin\Debug\Newtonsoft.Json.xml
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\maskDetection\obj\Debug\maskDetection.csprojAssemblyReference.cache
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\maskDetection\obj\Debug\maskDetection.csproj.CoreCompileInputs.cache
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\maskDetection\obj\Debug\maskDetection.csproj.CopyComplete
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\maskDetection\obj\Debug\maskDetection.exe
+D:\IBM\ArtificialIntelligencePractitioner\Project\WindowProject\maskDetection\obj\Debug\maskDetection.pdb
