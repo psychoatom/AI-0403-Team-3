@@ -19,6 +19,12 @@ We are building a face mask detection computer vision model as part of our resea
 <li>/snippets/ - test code sandbox </li>
 </ul>
 
+<ul>
+<li>/MaskMonitoringSystem/ - Azure artefacts for full system </li>
+<li>/maskDetectionConsole/ - Azure artefacts for batch uploading to custom vision</li>
+</ul>
+
+
 **Sample Deployments:**
 
 https://effnetmaskchk.herokuapp.com
