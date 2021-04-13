@@ -180,7 +180,7 @@ namespace WebMaskDetection.Controllers
                 client.DefaultRequestHeaders.Add("Prediction-Key", "************");
 
                 // Prediction URL - replace this example URL with your valid Prediction URL.
-                string url = "https://aiproject.cognitiveservices.azure.com/customvision/v3.0/Prediction/ecc60d7c-b3c8-4b65-9e60-1ae67ccb2ae4/classify/iterations/Iteration2/image";
+                string url = "***************************";
 
                 HttpResponseMessage response;
                 double proValue;
