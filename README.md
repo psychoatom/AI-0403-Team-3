@@ -20,8 +20,8 @@ We are building a face mask detection computer vision model as part of our resea
 </ul>
 
 <ul>
-<li>/MaskMonitoringSystem/ - Azure artefacts for full system </li>
-<li>/maskDetectionConsole/ - Azure artefacts for batch uploading to custom vision</li>
+<li>/MaskMonitoringSystem/ - Custom Vision artefacts for full system </li>
+<li>/maskDetectionConsole/ - Custom Vision artefacts for batch uploading to custom vision</li>
 </ul>
 
 
