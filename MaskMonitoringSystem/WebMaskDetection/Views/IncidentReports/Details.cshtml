@@ -1,0 +1,37 @@
+﻿@model WebMaskDetection.Models.IncidentReport
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>IncidentReport</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IncidentDateTime)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.IncidentDateTime)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Note)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Note)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.LocationSetting)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.LocationSetting.locationIndex)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.IncidentIndex">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

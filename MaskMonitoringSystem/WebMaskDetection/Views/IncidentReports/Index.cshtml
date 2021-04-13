@@ -1,0 +1,48 @@
+﻿@model IEnumerable<WebMaskDetection.Models.IncidentReport>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Incident Report Listing</h2>
+
+<p>
+    <!--<a asp-action="Create">Create New</a>-->
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+               Date Time
+            </th>
+            <th>
+                Location
+            </th>
+            <th>
+                Note
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IncidentDateTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LocationSetting.Location)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Note)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IncidentIndex">Edit</a> |
+                <!--  <a asp-action="Details" asp-route-id="@item.IncidentIndex">Details</a> |-->
+                <a asp-action="Delete" asp-route-id="@item.IncidentIndex">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
