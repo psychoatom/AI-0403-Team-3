@@ -27,6 +27,8 @@ We are building a face mask detection computer vision model as part of our resea
 
 **Sample Deployments:**
 
+http://ef-fit.com
+<br>
 https://effnetmaskchk.herokuapp.com
 <br>
 https://effnet-mask-test.herokuapp.com
