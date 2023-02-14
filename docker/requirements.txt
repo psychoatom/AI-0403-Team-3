@@ -5,5 +5,5 @@ uvicorn
 Pillow
 numpy
 tensorflow
-starlette==0.13.8
+starlette==0.25.0
 python-multipart
